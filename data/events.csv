@@ -1,0 +1,17 @@
+id,name,date,points,code,end_time,start_time,event_type,food_present,is_virtual
+03594c84-31e6-41eb-9182-e908ee1a5808,Pickleball Fundraiser,2025-11-15 00:00:00+00,4,pickle,2025-11-16 00:00:00+00,2025-11-15 22:00:00+00,fundraising,true,false
+05713e78-b6db-457c-aa25-7ec5ad066300,UF x UCF Vital Device Competition,2025-12-07 00:00:00+00,4,5XD3QABS,2025-12-08 00:00:00+00,2025-12-07 23:00:00+00,competition,false,false
+06913c7d-6e2b-4ec6-bd1b-f7cabfa0702c,Pill Dispenser Workshop,2025-11-18 00:00:00+00,3,skittles,2025-11-19 01:00:00+00,2025-11-18 22:50:00+00,workshop,true,false
+13c898b4-fcfd-4880-add8-7884695c6df9,Johnson & Johnson MedTech Virtual Industry Speaker,2025-10-16 00:00:00+00,2,jjtechtalk,2025-10-16 23:15:00+00,2025-10-16 21:45:00+00,industry_speaker,false,true
+1e19aae0-3ff3-4cc0-9976-3ac7464fc68a,Graduate School Admissions,2025-10-02 00:00:00+00,3,applygrad,2025-10-02 23:45:00+00,2025-10-02 22:15:00+00,academia_speaker,false,false
+24f885df-ef44-4ec7-8f53-600244a26205,Soldering Workshop,2025-11-20 00:00:00+00,3,hothot,2025-11-21 01:15:00+00,2025-11-20 22:45:00+00,workshop,false,false
+2eab65f5-690e-4394-8a4d-0a27c74215be,Heartbeat Monitor Workshop,2025-09-26 00:00:00+00,3,goblin,2025-09-27 00:45:00+00,2025-09-26 22:15:00+00,workshop,false,false
+620f5f25-e1ae-426b-851d-c1db8cb8f879,EMBS x NeuroTech - Virtual Academia Speaker,2025-10-02 00:00:00+00,3,neurooo,2025-10-02 19:15:00+00,2025-10-02 17:45:00+00,academia_speaker,false,true
+808f04f9-ad38-4040-bf2f-fecfed9b8423,Intro to Programming Workshop,2025-10-06 00:00:00+00,3,helloworld,2025-10-06 23:30:00+00,2025-10-06 21:45:00+00,workshop,false,false
+8e47c78e-ad91-4585-bec8-56cc5950ab69,GBM 2,2025-11-13 00:00:00+00,1,pizzaaa,2025-11-13 23:30:00+00,2025-11-13 22:00:00+00,gbm,true,false
+a463c7be-9f29-49be-aece-087c5bd7c937,"IBM Industry Speaker Event ",2025-09-16 00:00:00+00,2,IBMsoCOOL,2025-09-17 00:45:00+00,2025-09-16 23:00:00+00,industry_speaker,false,true
+b4c3cb5d-40c7-4e5d-a419-6717df0e64a6,TREACE Virtual Industry Speaker,2025-11-05 00:00:00+00,2,treacetalks,2025-11-06 01:10:00+00,2025-11-05 23:50:00+00,industry_speaker,false,true
+c3562cce-1f04-46b7-9123-868a37060993,Resume Workshop,2025-09-25 00:00:00+00,3,resumeszn,2025-09-25 22:40:00+00,2025-09-25 21:00:00+00,workshop,false,false
+d669f867-0ee2-43d9-a0c4-9650aa6cd557,"Academia Speaker Panel ",2025-11-17 00:00:00+00,3,wooo,2025-11-18 01:00:00+00,2025-11-17 22:50:00+00,academia_speaker,false,false
+ebcf0666-cb02-4285-9497-8893eb8d3715,GBM 1,2025-09-15 00:00:00+00,1,yippee,2025-09-15 23:30:00+00,2025-09-15 22:30:00+00,gbm,true,false
+f0f4d88d-d2cb-428d-86b0-5ab54c90382d,Design-a-thon,2025-10-11 00:00:00+00,4,yaydesign,2025-10-12 00:00:00+00,2025-10-11 11:50:00+00,competition,true,false
