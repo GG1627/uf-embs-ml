@@ -1,6 +1,10 @@
 # UF EMBS Event Attendance Prediction Model
 
-A machine learning model to predict event attendance for the University of Florida Engineering in Medicine and Biology Society (UF EMBS).
+This project builds a baseline machine learning model to predict attendance
+for UF EMBS events using historical event data.
+
+The goal is to identify patterns in event timing, type, and incentives
+to help officers better plan future events.
 
 ## Getting Started
 
@@ -43,3 +47,16 @@ A machine learning model to predict event attendance for the University of Flori
    pip install -r requirements.txt
    ```
 
+## Data Used
+
+The model is trained on past UF EMBS event data, including:
+- Event type (workshop, GBM, competition, etc.)
+- Date and start time
+- Points offered
+- Food availability
+- Virtual vs in-person
+- Total recorded attendance (target variable)
+
+## Contributors
+
+- **Gael Garcia**
