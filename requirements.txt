@@ -9,4 +9,3 @@ scikit-learn
 fastapi
 joblib
 uvicorn
-gunicorn
