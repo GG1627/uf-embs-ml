@@ -6,3 +6,7 @@ seaborn
 jupyter
 supabase
 scikit-learn
+fastapi
+joblib
+uvicorn
+gunicorn
